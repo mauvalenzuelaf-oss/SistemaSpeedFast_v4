@@ -1,6 +1,6 @@
 ![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
 
-# 🧠 Semana 4 - Actividad Formativa - Desarrollo Orientado a Objetos II
+# 🧠 Semana 4 - Actividad Formativa N° 3 - Desarrollo Orientado a Objetos II
 
 ## 👤 Autor del proyecto
 
